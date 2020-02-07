@@ -40,6 +40,7 @@ footer{
     position: relative;
 }
 table, th, td {
-    border: 1px solid black;
+    border: 1px solid #ffaf87;
     padding: 5px 5px;
+    color: #ffaf87;
   }
