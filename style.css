@@ -12,7 +12,10 @@ h2 {
 
 body {
     background-image: url("assests/images/Underwater Fish.jpg");
+    height: 100%;
+    width: 100%;
     padding: 10px 20px;
+
 }
 
 p{
