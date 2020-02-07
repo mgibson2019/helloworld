@@ -12,6 +12,7 @@ h2 {
 
 body {
     background: #ffaf87;
+    padding: 10px 20px;
 }
 
 p{
@@ -20,12 +21,16 @@ p{
 }
 
 header{
-    height: 50px;
-    width: 50px;
+    height: 100%;
+    width: 100%;
+    position: static;
 }
 
 footer{
-    height: 50px;
-    width: 50px;
+    min-height: 50px;
+    min-width: 50px;
+    max-width: 150px;
+    max-height: 150px;
     color: #255d83;
+    position: relative;
 }
