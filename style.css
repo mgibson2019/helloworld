@@ -12,7 +12,7 @@ h2 {
 }
 
 body {
-    background-image: url("assests/images/Underwater Fish.jpg");
+    background-image: url("assests/images/Underwater Fish.jpg") padding: 25px 50px;
     height: 100%;
     width: 100%;
     background-position: center;
