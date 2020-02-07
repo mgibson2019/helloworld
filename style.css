@@ -24,6 +24,7 @@ p{
     color: #ffaf87;
     background-color: #255d83;
     font-family: 'Times New Roman', Times, serif;
+    position: relative;
 }
 
 header{
