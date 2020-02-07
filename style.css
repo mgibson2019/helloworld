@@ -8,13 +8,16 @@ h2 {
     color: #ffaf87;
     background-color: #255d83;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 20px;
 }
 
 body {
     background-image: url("assests/images/Underwater Fish.jpg");
-    height: 100%;
-    width: 100%;
-    padding: 10px 20px;
+    min-height: 150px;
+    min-width: 150px;
+    max-width: 250px;
+    max-height: 250px;
+    
 
 }
 
