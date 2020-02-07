@@ -13,10 +13,8 @@ h2 {
 
 body {
     background-image: url("assests/images/Underwater Fish.jpg");
-    min-height: 150px;
-    min-width: 150px;
-    max-width: 250px;
-    max-height: 250px;
+    height: 100%;
+    width: 100%;
     
 
 }
