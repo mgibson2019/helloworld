@@ -11,7 +11,7 @@ h2 {
 }
 
 body {
-    background-image: url"(C:\Users\McKenzie Gibson\Desktop\DEV\helloworld\assests\images\underwater fish.jpg)";
+    background-image: "url(./assests/images/Underwater Fish.jpg)";
     padding: 10px 20px;
 }
 
